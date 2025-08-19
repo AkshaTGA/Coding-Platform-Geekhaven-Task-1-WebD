@@ -1,0 +1,33 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs
+*.log
+logs/*.log
+
+# Build outputs
+dist/
+build/
+.cache/
+.next/
+out/
+coverage/
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
+
+# Optional lock files (keep if you want deterministic builds)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
