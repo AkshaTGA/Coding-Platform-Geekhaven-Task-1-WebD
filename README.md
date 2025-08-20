@@ -6,3 +6,6 @@ Name: Akshat Parmar
 
 
 deployment in process
+
+Update:Deployed.
+URL: https://geekhaven-task1-by-akshat.netlify.app/
